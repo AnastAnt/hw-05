@@ -651,8 +651,10 @@ img {
 }
 .modal-form-priv {
   display: flex;
+  width: 360px;
+  align-items: center;
   gap: 8px;
-  margin-bottom: 24px;
+  border-radius: 4px;
 }
 .visually-hidden {
 }
